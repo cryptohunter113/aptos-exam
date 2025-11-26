@@ -23,7 +23,7 @@ Registers a new medical professional with:
 
 Throws error if already registered.
 
----
+--- --
 
 ### `record_treatment(doctor_addr: address, successful: bool)`
 Updates the treatment stats and adjusts the trust score:
